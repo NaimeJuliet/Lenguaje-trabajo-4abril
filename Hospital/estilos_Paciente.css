@@ -1,0 +1,13 @@
+﻿body {
+    background-color: darkkhaki;
+    text-align: center;
+    background-image: url('imgs/img_pte.gif');
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+#form1{
+    text-align:center;
+}
